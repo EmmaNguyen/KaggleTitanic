@@ -1,0 +1,5 @@
+APPLY_THEME_TO=1
+SKIP_APPLY_FIX_TO_NON_DARK=true
+THEME_STYLED_TEXT_SCROLLBARS=true
+colorTheme=Default
+eclipse.preferences.version=1

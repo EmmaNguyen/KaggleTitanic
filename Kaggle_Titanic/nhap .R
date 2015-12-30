@@ -1,0 +1,5 @@
+setwd("/home/emma/Desktop/Courses/Kaggle_Titanic")
+train <- read.csv("train.csv", header = TRUE, StringAsFactor = FALSE)
+test <- read.csv("test.csv", header = TRUE, StringAsFactor = FALSE)
+plot(density(trainData$Age, na.rm = TRUE))
+plot(density(trainData$Fare, na.rm = TRUE))
